@@ -17,6 +17,9 @@ EditorUserSettings:
     vcPerforceUsername:
       value: 051f440309401a545f5b2c3104365b151803116439262f232c671427
       flags: 0
+    vcPerforceWorkspace:
+      value: 200b683316501b48313b18271e375a2c111e0c1619060f04140e3c1ec7
+      flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
